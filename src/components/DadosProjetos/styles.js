@@ -26,7 +26,7 @@ export const Menu = styled.div`
     color: #000;
     font-weight: bold;
     font-size: 1.2rem;
-    color: #6a6a6a;
+    color: #8a8a8a;
     transition: filter 0.5s;
 
     &:hover{

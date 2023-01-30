@@ -44,15 +44,13 @@ export default function DadosProjetos() {
           <>
             <InfoDados initial="hidden" animate="visible" variants={variants}>
               <span>
-                Me chamo Daniel Sandrin de Campos, tenho 23 anos e atuo a dois anos
-                como desenvolvedor FullStack. Estou na área de técnologia desde os 17 anos de idade.
-                Trabalho com técnologias como ASP, VbNet, SqlServer, Ionic. Sou Bacharel em Sistemas
-                de informação pela faculdade Mater Dei. Gosto muito da área de sistemas e sou apaixonado
-                por FrontEnd, onde já dedico meus estudos a mais de um ano. Entrei na área de desenvolvimento
-                por ser facinado em poder criar "A quelas telas bonitas de jogos online" que via quando era
-                criança e desde então fiz varios cursos que me despertaram mais ainda a curiosidade sobre
-                a área de Sistemas. Caso queira saber mais sobre mim, pode estar entrando em contato atráves
-                do Linkedin, <b><a href='https://www.linkedin.com/in/daniel-sandrin/' target={'_blank'}>Clicando aqui!</a></b>
+                Me chamo Davi Alexandre Silva Santana, tenho 17 anos e estou em busca para minha primeira vaga no setor
+                como desenvolvedor FullStack. Estou estudando a area de técnologia desde os 11 anos de idade, comecei bem cedo.
+                Minhas principais tecnologias sao JavaScript, Css e Html para o Front-End, para o BackEnd estou começando os estudos em PHP. Gosto muito da área de desenvolvimento atualmente estou concluindo um curso Tecnico em Automação Industrial e sou apaixonado
+                por FrontEnd , onde já dedico meus estudos a mais de dois ano. O motivo da minha paixao pela area FrontEnd e que me abriu diversos caminhos,
+                em meu curso Tecnico estou desenvolvendo um IoT de um Varal Automatico para meu TCC com uma API metereologica integrada ao projeto e a parte eletronica totalmente controlada pelo FrontEnd. 
+                Caso queira saber mais sobre mim, pode estar entrando em contato atráves
+                do Linkedin, <b><a href='https://www.linkedin.com/in/davi-alexandre-3658bb1b6/' target={'_blank'}>Clicando aqui!</a></b>
               </span>
             </InfoDados>
             <h1>Hard Skills</h1>

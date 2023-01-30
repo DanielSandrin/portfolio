@@ -1,27 +1,15 @@
 export const Projetos = [
   {
-    nome: 'Letme Ask (ReactJS)', img: 'https://user-images.githubusercontent.com/40778725/169152460-23a027e3-c756-41f3-8721-b94d1a5dec80.png'
-    , github: 'https://github.com/DanielSandrin/letmeAsk'
+    nome: 'FlappyBird (Html,Css,Js)', img: 'https://user-images.githubusercontent.com/70967912/215520243-3c5f9d68-4590-4bdf-9a00-b6dc97402a06.png'
+    , github: 'https://github.com/Davieas/Projeto-FlappyBird'
   },
   {
-    nome: 'Quiz (ReactJS)', img: 'https://user-images.githubusercontent.com/40778725/168648847-f7d00500-7ece-426e-aeeb-ecd77d2e2aba.png'
-    , github: 'https://github.com/DanielSandrin/Quiz'
+    nome: 'Responsive Login Form (Html, Css, Js)', img: 'https://user-images.githubusercontent.com/70967912/215525145-a27a4255-6de0-403f-9f1e-d6a668f83b2c.png'
+    , github: 'https://github.com/Davieas/Responsive-Login-Form/tree/my-freature'
   },
   {
-    nome: 'Search (html,JS)', img: 'https://user-images.githubusercontent.com/40778725/165329938-ee8dec0e-3f8c-4cf5-adc6-3cfb1e4e9873.gif'
-    , github: 'https://github.com/DanielSandrin/CampoDeBusca'
-  },
-  {
-    nome: 'Carrosel (html,JS)', img: 'https://user-images.githubusercontent.com/40778725/158913411-e0a9ec37-3352-41f9-abd1-9e7e3f94f774.png'
-    , github: 'https://github.com/DanielSandrin/Carrosel'
-  },
-  {
-    nome: 'Letter Avatar (React)', img: 'https://user-images.githubusercontent.com/40778725/157361948-06beb048-d0cd-4cf3-8cb2-76b625f97720.png'
-    , github: 'https://github.com/DanielSandrin/LetterAvatar'
-  },
-  {
-    nome: 'PodCaster (React)', img: 'https://user-images.githubusercontent.com/40778725/132875780-6ab6f6c0-715f-4815-b35c-00741aca7a7b.jpg'
-    , github: 'https://github.com/DanielSandrin/PodCaster'
-  },
+    nome: 'Control for IoT With Arduino (Html, NodeJS, Css)', img: 'https://user-images.githubusercontent.com/70967912/215527674-c763f282-e65a-4d30-a0e1-c33a4f1bf0aa.png'
+    , github: 'https://github.com/Davieas/Varal_automatico_integrado_a_API'
+  }
 
 ]

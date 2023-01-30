@@ -43,6 +43,7 @@ export const DadosPerfil = styled.div`
    align-items: center;
 
    h1{
+    margin-top: 200px;
      font-size: 1.5rem;
    }
 
